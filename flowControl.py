@@ -22,7 +22,7 @@ else :
 
 
 # WHILE loop.
-number  = int(input("Enter a anumber between 1 - 10: "))
+number  = int(input("Enter a number between 1 - 10: "))
 
 while(number <= 10):
     print("I love coding!")
